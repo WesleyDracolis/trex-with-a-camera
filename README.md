@@ -1,1 +1,2 @@
-# trex-with-a-camera
+# trex
+created using p5
